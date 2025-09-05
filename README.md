@@ -1,13 +1,17 @@
-# umamusume-auto-train-text-guide
 If you like what I do, consider supporting me :)
 
-<a href="https://www.buymeacoffee.com/CrazyIvanTR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Haru Would Be Proud" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://www.buymeacoffee.com/CrazyIvanTR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+PS: Haru would be proud.
+
+# umamusume-auto-train-text-guide
+# Install Guide For Actual Beginners
 
 Go to the repo ([link](https://github.com/samsulpanjul/umamusume-auto-train/tree/main)), click on green "<> Code" button, click on download zip. Extract zip wherever you want (preferably on your desktop if you want to follow this guide). 
 
 Install Python ([link](https://www.python.org/downloads/)). Open Windows Powershell (press windows button, write powershell) or a terminal (ctrl+alt+t on linux, don't know about mac) if you're on linux / mac, navigate to the folder you extracted the repo to (on Windows, the powershell is probably on your home folder, so you could do "cd Desktop" then "cd umamusume-auto-train-main"). 
 
-Then install requirements typing pip then pressing tab to autoresolve names, then type in requirements.txt (probably just "pip.exe .\requirements.txt" on Windows and "pip requirements.txt" on linux). Press enter, it should take a while to install all the packages needed.
+Then install requirements typing pip then pressing tab to autoresolve names, then type in requirements.txt (probably just "pip.exe -r .\requirements.txt" on Windows and "pip -r requirements.txt" on linux). Press enter, it should take a while to install all the packages needed.
 
 Then (in the same folder) just type in python and press tab so that it autocompletes the executable name (most likely python.exe or python3.exe) and type main.py after it (so probably "python.exe main.py"). Press enter and wait a little (takes a few seconds to setup depending on your computer), press f1 and you're good to go.
 
