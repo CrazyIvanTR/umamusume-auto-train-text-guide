@@ -1,7 +1,7 @@
 # umamusume-auto-train-text-guide
 If you like what I do, consider supporting me :)
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="CrazyIvanTR" data-color="#BD5FFF" data-emoji=""  data-font="Cookie" data-text="Haru Would Be Proud" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<a href="https://www.buymeacoffee.com/CrazyIvanTR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Haru Would Be Proud" style="height: 60px !important;width: 217px !important;" ></a>
 
 Go to the repo ([link](https://github.com/samsulpanjul/umamusume-auto-train/tree/main)), click on green "<> Code" button, click on download zip. Extract zip wherever you want (preferably on your desktop if you want to follow this guide). 
 
