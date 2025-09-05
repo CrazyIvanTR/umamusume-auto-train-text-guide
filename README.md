@@ -1,4 +1,5 @@
-If you like what I do, consider supporting me :)
+I'm currently contributing to [this repo](https://github.com/samsulpanjul/umamusume-auto-train/tree/main) (also linked below). If you have any ideas on this repo, please post in the repo itself. If you have any other project you want me to modify / contribute to, please let me know and I'll do my best.
+ALso, if you like what I do, consider supporting me :)
 
 <a href="https://www.buymeacoffee.com/CrazyIvanTR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
