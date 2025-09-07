@@ -4,6 +4,8 @@ If you like what I do, please consider supporting me :)
 
 PS: Haru would be proud.
 
+# Important
+For now, the only version of the bot that works with bluestacks is [here](https://github.com/CrazyIvanTR/umamusume-auto-train/tree/bluestacks_work). I'll see about getting it added to the main repo.
 
 # Bluestacks Guide
 This is an extention to the readme, for a beginner guide on how to make the bot work, you should read the readme file here.
@@ -26,6 +28,3 @@ In the screen that opens, hover over the name of the instance and click the edit
 Name the instance "Bluestacks Umamusume", without the quotes of course. The name has to be exact or the code won't work properly.
 
 After you're done with the installation, the bot should work as normal.
-
-For now, the only version of the bot that works with bluestacks is [here](https://github.com/CrazyIvanTR/umamusume-auto-train/tree/bluestacks_work). I'll see about getting it added to the main repo.
-
