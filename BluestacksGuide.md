@@ -28,3 +28,6 @@ In the screen that opens, hover over the name of the instance and click the edit
 Name the instance "Bluestacks Umamusume", without the quotes of course. The name has to be exact or the code won't work properly.
 
 After you're done with the installation, the bot should work as normal.
+
+##### keywords
+umamusume auto train trainer simulator bluestacks android
