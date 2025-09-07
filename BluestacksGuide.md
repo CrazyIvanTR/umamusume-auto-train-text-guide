@@ -29,5 +29,12 @@ Name the instance "Bluestacks Umamusume", without the quotes of course. The name
 
 After you're done with the installation, the bot should work as normal.
 
+
+
+
+
+
+
+
 ##### keywords
 umamusume auto train trainer simulator bluestacks android
