@@ -3,7 +3,7 @@ If you like what I do, please consider supporting me :)
 <a href="https://www.buymeacoffee.com/CrazyIvanTR" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 PS: Haru would be proud.
-
+**********************
 # Important
 For now, the only version of the bot that works with bluestacks is [here](https://github.com/CrazyIvanTR/umamusume-auto-train/tree/bluestacks_work). I'll see about getting it added to the main repo.
 
@@ -29,12 +29,7 @@ Name the instance "Bluestacks Umamusume", without the quotes of course. The name
 
 After you're done with the installation, the bot should work as normal.
 
-
-
-
-
-
-
+**************
 
 ##### keywords
 umamusume auto train trainer simulator bluestacks android
