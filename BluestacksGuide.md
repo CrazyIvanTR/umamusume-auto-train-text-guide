@@ -25,6 +25,10 @@ In the screen that opens, hover over the name of the instance and click the edit
 
 Name the instance "Bluestacks Umamusume", without the quotes of course. The name has to be exact or the code won't work properly.
 
+Also, in the webUI of the bot you have to specify your instance name so enter the same name there:
+
+<img width="549" height="317" alt="image" src="https://github.com/user-attachments/assets/bb196295-db9c-4e95-890e-d0ac30e618c4" />
+
 After you're done with the installation, the bot should work as normal.
 
 **************
