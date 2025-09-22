@@ -13,7 +13,9 @@ Go to the repo ([link](https://github.com/samsulpanjul/umamusume-auto-train/tree
 
 Install Python ([link](https://www.python.org/downloads/)). Open Windows Powershell (press windows button, write powershell) or a terminal (ctrl+alt+t on linux, don't know about mac) if you're on linux / mac, navigate to the folder you extracted the repo to (on Windows, the powershell is probably on your home folder, so you could do "cd Desktop" then "cd umamusume-auto-train-main"). 
 
-Then install requirements typing pip then pressing tab to autoresolve names, then type in requirements.txt (probably just "pip.exe install -r .\requirements.txt" on Windows and "pip install -r requirements.txt" on linux). Press enter, it should take a while to install all the packages needed.
+## Important! When installing python click on "Add python to the PATH variable"
+
+Then install requirements typing pip then pressing tab to autoresolve names, then type in requirements.txt (probably just "pip.exe install -r .\requirements.txt" on Windows and "pip install -r requirements.txt" on linux). Press enter, it should take a while to install all the packages needed. (Alternative command: py -m pip install -r requirements.txt)
 
 Then (in the same folder) just type in python and press tab so that it autocompletes the executable name (most likely python.exe or python3.exe) and type main.py after it (so probably "python.exe main.py"). Press enter and wait a little (takes a few seconds to setup depending on your computer), press f1 and you're good to go.
 
